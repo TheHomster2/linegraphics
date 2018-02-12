@@ -20,7 +20,7 @@ int main() {
   int x0 = 250;
   int y0 = 326;
   int x1 = 0;
-  int y2 = -132;
+  int y1 = -132;
 
   for (int i = 0; i < 20; i++){
   	c.red = 12;
